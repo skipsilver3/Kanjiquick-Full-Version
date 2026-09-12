@@ -1,0 +1,1 @@
+# Kanjiquick-Full-Version
