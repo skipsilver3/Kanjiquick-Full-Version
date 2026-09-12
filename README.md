@@ -228,3 +228,6 @@ This repository serves as the official landing page for KanjiQuick. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Download the most recent version of KanjiQuick today and start your Japanese learning journey!**
+
+---
+**Last updated:** 2026-09-12 11:51:40 UTC
