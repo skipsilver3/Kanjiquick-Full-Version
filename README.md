@@ -230,4 +230,4 @@ This repository serves as the official landing page for KanjiQuick. The software
 **Download the most recent version of KanjiQuick today and start your Japanese learning journey!**
 
 ---
-**Last updated:** 2026-09-19 00:56:31 UTC
+**Last updated:** 2026-09-19 05:28:36 UTC
